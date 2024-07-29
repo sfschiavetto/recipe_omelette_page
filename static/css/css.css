@@ -1,7 +1,26 @@
 .container{
-    border: 2rem solid yellow;
+    border: 2rem solid hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1rem;
 }
 
 .card-img-top{
     border-radius: 1rem;
 }
+
+body{
+    background-color: hsl(30, 18%, 87%);
+    border-top: 3rem solid hsl(30, 18%, 87%);
+    border-right: 2rem solid hsl(30, 18%, 87%);
+    border-left: 2rem solid hsl(30, 18%, 87%);
+   
+}
+
+.attribution{
+    padding: 3rem 0 0 0;
+}
+
+main{
+    font-family: "Outfit";
+}
+

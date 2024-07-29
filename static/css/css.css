@@ -24,3 +24,38 @@ main{
     font-family: "Outfit";
 }
 
+h3{
+    color: hsl(14, 45%, 36%);
+    font-weight: 700;
+    font-family: "Young Serif";
+}
+
+h5{
+    color: hsl(332, 51%, 32%);
+    font-weight: 600;
+}
+
+h1{
+    color: hsl(332, 51%, 32%);
+    font-weight: 700;
+    font-family: "Young Serif";
+}
+
+.preparation{
+    padding: 0 0 0 5%;
+}
+
+ol{
+    display: inline-block;
+}
+
+li{
+    padding: 0 0 0 1.5%;
+}
+
+.detach{
+    font-family: "Young Serif";
+    color: hsl(332, 51%, 32%);
+    font-weight: 600;
+}
+

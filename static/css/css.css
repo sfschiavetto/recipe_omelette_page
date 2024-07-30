@@ -24,18 +24,18 @@ main{
     font-family: "Outfit";
 }
 
-h4{
+h2{
     color: hsl(14, 45%, 36%);
     font-weight: 700;
     font-family: "Young Serif";
 }
 
-h5{
+h3{
     color: hsl(332, 51%, 32%);
     font-weight: 600;
 }
 
-h3{
+h1{
     color: hsl(332, 51%, 32%);
     font-weight: 700;
     font-family: "Young Serif";

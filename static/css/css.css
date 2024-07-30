@@ -30,11 +30,6 @@ h2{
     font-family: "Young Serif";
 }
 
-h3{
-    color: hsl(332, 51%, 32%);
-    font-weight: 600;
-}
-
 h1{
     color: hsl(332, 51%, 32%);
     font-weight: 700;
@@ -60,3 +55,6 @@ li{
     font-weight: 600;
 }
 
+h3{
+    font-size: 1.5em;
+}

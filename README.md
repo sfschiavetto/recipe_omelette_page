@@ -21,7 +21,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-Bjt3r5fDKO)
 - Live Site URL: [Add live site URL here](https://sfschiavetto.github.io/recipe_omelette_page/)
 
 ## My process
